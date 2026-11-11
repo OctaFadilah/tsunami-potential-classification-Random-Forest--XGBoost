@@ -84,14 +84,14 @@ tsunami-classification-rf-xgboost/
 ## Getting Started / Installation
 
 1. **Clone the repository:**
-   \`\`\`bash
+   ```bash
    git clone https://github.com/yourusername/tsunami-classification-rf-xgboost.git
    cd tsunami-classification-rf-xgboost
-   \`\`\`
+   ```
 2. **Install dependencies:**
-   \`\`\`bash
+   ```bash
    pip install -r requirements.txt
-   \`\`\`
+   ```
 3. **Run the notebooks:** Open the `.ipynb` files in the `notebooks/` directory using Jupyter Notebook, JupyterLab, or upload them directly to Google Colab.
 
 ## Reference
