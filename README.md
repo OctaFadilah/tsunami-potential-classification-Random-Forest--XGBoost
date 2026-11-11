@@ -11,6 +11,17 @@ This project is a geophysical computational study comparing the performance of m
 
 ---
 
+## 📸 Project Demonstration
+
+<p align="center">
+  <img src="outputs/GIF outputs.gif" alt="Model Performance Demo width="850">
+</p>
+<p align="center">
+  <em>Figure 1: Model Performance Demo.</em>
+</p>
+
+---
+
 ## Research Objectives
 * To analyze and compare the reliability of Random Forest and XGBoost in detecting tsunami-triggering earthquakes.
 * To evaluate the impact of adding fault type parameters on classification performance compared to using only basic seismic parameters (magnitude and spatial data).
