@@ -56,7 +56,7 @@ This project is a geophysical computational study comparing the performance of m
 
 ## Repository Structure
 
-\`\`\`text
+```text
 tsunami-classification-rf-xgboost/
 ├── data/                       # Directory for dataset files
 │   ├── raw/                    # Raw NIED earthquake and NOAA tsunami catalogs
@@ -76,7 +76,7 @@ tsunami-classification-rf-xgboost/
 ├── .gitignore                  # Ignored files (e.g., virtual environments, large data files)
 ├── README.md                   # Project overview
 └── requirements.txt            # List of Python dependencies
-\`\`\`
+```
 
 ---
 
