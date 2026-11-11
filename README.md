@@ -56,16 +56,13 @@ This project is a geophysical computational study comparing the performance of m
 
 ## Getting Started / Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/tsunami-classification-rf-xgboost.git
-   cd tsunami-classification-rf-xgboost
-   ```
-2. **Install dependencies:**
+1. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
-3. **Run the notebooks:** Open the `.ipynb` files in the `notebooks/` directory using Jupyter Notebook, JupyterLab, or upload them directly to Google Colab.
+2. **Run the notebooks:** Open the `Main.py` files using Jupyter Notebook, JupyterLab, or upload them directly to Google Colab.
+
+3. 
 
 ## Reference
 Fadilah, O. (2026). *Analisis Perbandingan Random Forest dan XGBoost dalam Klasifikasi Potensi Tsunami Berdasarkan Data Gempa Bumi Tahun 2000-2025 di Jepang*. Universitas Pembangunan Nasional "Veteran" Yogyakarta.
