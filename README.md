@@ -54,33 +54,6 @@ This project is a geophysical computational study comparing the performance of m
 
 ---
 
-## Repository Structure
-
-```text
-tsunami-classification-rf-xgboost/
-├── data/                       # Directory for dataset files
-│   ├── raw/                    # Raw NIED earthquake and NOAA tsunami catalogs
-│   └── processed/              # Cleaned, filtered, and merged datasets
-├── notebooks/                  # Google Colab / Jupyter Notebooks for exploration
-│   ├── 01_data_preprocessing.ipynb
-│   └── 02_model_training_and_evaluation.ipynb
-├── src/                        # Python scripts for modular execution
-│   ├── data_loader.py
-│   ├── model_rf.py
-│   ├── model_xgb.py
-│   └── evaluation.py
-├── models/                     # Saved trained models (.pkl or .joblib)
-├── reports/                    # Documentation and generated visual outputs
-│   ├── figures/                # ROC, Precision-Recall, Confusion Matrix, Feature Importance plots
-│   └── 115220062_Skripsi_OctaFadilah.pdf  # Original thesis document
-├── .gitignore                  # Ignored files (e.g., virtual environments, large data files)
-├── README.md                   # Project overview
-└── requirements.txt            # List of Python dependencies
-```
-
----
-
-
 ## Getting Started / Installation
 
 1. **Clone the repository:**
