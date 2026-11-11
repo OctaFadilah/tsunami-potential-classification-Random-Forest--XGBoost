@@ -14,7 +14,7 @@ This project is a geophysical computational study comparing the performance of m
 ## 📸 Outputs Project Demonstration
 
 <p align="center">
-  <img src="outputs/GIF outputs.gif" alt="Model Performance Demo width="650">
+  <img src="outputs/GIF outputs.gif" width="650">
 </p>
 <p align="center">
   <em>Figure 1: Model Performance Demo.</em>
